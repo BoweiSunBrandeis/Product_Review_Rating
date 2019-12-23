@@ -1,5 +1,6 @@
-# Product_Review_Rating
-This project aims to predict the helpfulness of any given product review.
+# Product Review Rating
+For internet companies who try to sell products online, the consumer review is a huge decision maker for potential buyers.
+The goal of the project is to train a model to tell the helpfulness of any given product review. With the Amazon dataset of video game reviews, we want to train a model to predict how helpful a review is, thus makes it possible to improve the customer’s experience by sorting the reviews according to the helpfulness.
 
 ## Python Libraries
 Following libraries are required in this project:
