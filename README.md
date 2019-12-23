@@ -3,13 +3,13 @@ This project aims to predict the helpfulness of any given product review.
 
 ## Python Libraries
 Following libraries are required in this project:
-* nltk
-* sklearn
-* numpy
-* pandas
-* matplot
-* time
-* pickle
+* `nltk`
+* `sklearn`
+* `numpy`
+* `pandas`
+* `matplot`
+* `time`
+* `pickle`
 
 ## Dataset
 * Dataset can be found in [Amazon review data (2018)](http://deepyeti.ucsd.edu/jianmo/amazon/index.html), it is a json file.
@@ -18,7 +18,7 @@ Following libraries are required in this project:
 ## Model Training
 * The main code for model training is in `Model_estimation.py`
 
-## pkl Files
+## Trained Model Files
 * In the main folder, all files end with `.pkl` are the trained models
 * Models of cross-validation are too big, therefore these three are zipped in the file 
 
